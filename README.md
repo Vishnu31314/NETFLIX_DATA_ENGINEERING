@@ -37,7 +37,7 @@ This project showcases an end-to-end **ETL pipeline** built with **Python** and 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/netflix-data-engineering.git
+git clone https://github.com/Vishnu31314/NETFLIX_DATA_ENGINEERING.git
 cd netflix-data-engineering
 ```
 
